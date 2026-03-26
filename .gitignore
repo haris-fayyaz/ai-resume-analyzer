@@ -1,7 +1,6 @@
 .model_cache/
 __pycache__/
 *.pyc
-datasets/
 .env
 *.egg-info/
 .venv/
